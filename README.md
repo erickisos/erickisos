@@ -38,6 +38,6 @@ You usually will find me writing things in...
         <img src="https://img.shields.io/badge/-erickisos-white?style=flat-square&logo=Instagram">
     </a> &nbsp;
     <a href="https://mstdn.mx/@erickisos">
-        <img src="https://img.shields.io/badge/-@erickisos@mstdn.mx-white?style=flat-square&logo=Mastodon">
+        <img src="https://img.shields.io/badge/-erickisos-white?style=flat-square&logo=Mastodon">
     </a> &nbsp;
 </p>
