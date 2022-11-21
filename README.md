@@ -37,4 +37,7 @@ You usually will find me writing things in...
     <a href="https://www.instagram.com/erickisos">
         <img src="https://img.shields.io/badge/-erickisos-white?style=flat-square&logo=Instagram">
     </a> &nbsp;
+    <a href="https://mstdn.mx/@erickisos">
+        <img src="https://img.shields.io/badge/-@erickisos@mstdn.mx-white?style=flat-square&logo=Mastodon">
+    </a> &nbsp;
 </p>
