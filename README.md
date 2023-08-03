@@ -13,7 +13,7 @@ You usually will find me writing things in...
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Java-121212?style=flat&logo=java"> &nbsp;
+    <img src="https://img.shields.io/badge/-Java-121212?style=flat&logo=spring"> &nbsp;
     <img src="https://img.shields.io/badge/-Python-121212?style=flat&logo=python"> &nbsp;
     <img src="https://img.shields.io/badge/-Clojure-121212?style=flat&logo=clojure"> &nbsp;
     <img src="https://img.shields.io/badge/-C%2B%2B-121212?style=flat&logo=cplusplus"> &nbsp;
