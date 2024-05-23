@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Rust-121212?style=flat&logo=rust"> &nbsp;
 </p>
 
-<p>But I'll always be in love with LISP languages.</p>
+<p align="center">But I'll always be in love with LISP languages.</p>
 
 ---
 
